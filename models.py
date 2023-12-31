@@ -1,6 +1,5 @@
 import sqlalchemy as sq
 from sqlalchemy.orm import declarative_base, relationship
-from sqlalchemy import DATETIME, DECIMAL
 
 Base  = declarative_base()
 
